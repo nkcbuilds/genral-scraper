@@ -1,0 +1,13 @@
+query,enabled,category
+manual process,1,Operations
+spreadsheet workflow,1,Operations
+crm,1,CRM
+ticket triage,1,Support
+automation,1,Automation
+project management,1,Project Management
+accounting,1,Finance
+bookkeeping,1,Finance
+sales ops,1,Sales
+inventory,1,Logistics
+email marketing,1,Marketing
+content workflow,1,Marketing

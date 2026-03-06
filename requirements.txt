@@ -1,0 +1,6 @@
+apscheduler==3.11.2
+duckdb==1.4.4
+google-genai==1.65.0
+google-play-scraper==1.2.7
+praw==7.8.1
+requests==2.32.5

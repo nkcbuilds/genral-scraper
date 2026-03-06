@@ -1,0 +1,27 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.db
+*.db-wal
+*.db-shm
+*.wal
+*.lock
+logs/
+exports/
+*.log
+*.tmp
+*.bak
+*.sqlite
+*.sqlite3
+
+# Local tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.idea/
+.vscode/
+
+# OS noise
+Thumbs.db
+Desktop.ini
